@@ -1,0 +1,6 @@
+[submodule "picon"]
+	path = picon
+	url = git@github.com:CarterSnich/picon.git
+[submodule "wifi-clock"]
+	path = wifi-clock
+	url = git@github.com:CarterSnich/wifi-clock.git
